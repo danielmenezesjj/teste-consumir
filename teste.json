@@ -8,9 +8,13 @@
     "description": "Dispositivo 2"
   },
 
-     {
+  {
     "mac": "24:4B:FE:B7:CB:22",
     "description": "Dispositivo 5"
+  },
+    {
+    "mac": "72:F0:27:63:A3:D4",
+    "description": "Dispositivo Ig"
   }
 ]
 
