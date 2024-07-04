@@ -7,9 +7,12 @@
     "mac": "00:1B:44:11:3A:B8",
     "description": "Dispositivo 2"
   },
-
   {
     "mac": "24:4B:FE:B7:CB:22",
+    "description": "Dispositivo 5"
+  },
+  {
+    "mac": "18:C0:3D:F2:92:B9",
     "description": "Dispositivo 5"
   }
 ]
