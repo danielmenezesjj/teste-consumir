@@ -17,7 +17,6 @@
     "description": "Dispositivo 5"
   },
 
-
     {
     "mac": "14:85:7F:0B:40:04",
     "description": "dan 1"
@@ -34,7 +33,7 @@
   },
 
     {
-    "mac": "14:85:7F:0B:40:00",
+    "mac": "14:85:7F:0B:40:00",  
     "description": "Dispositivo 5"
   },
   
@@ -43,7 +42,7 @@
     "description": "Dispositivo 5"
   },
 
-      {
+  {
     "mac": "00:FF:62:A9:6D:6D",
     "description": "Dispositivo 5"
   },
