@@ -15,7 +15,38 @@
   {
     "mac": "18:C0:3D:F2:92:B9",
     "description": "Dispositivo 5"
-  }
+  },
+
+
+    {
+    "mac": "14:85:7F:0B:40:04",
+    "description": "dan 1"
+  },
+
+    {
+    "mac": "16:85:7F:0B:40:00",
+    "description": "Dispositivo 5"
+  },
+
+    {
+    "mac": "14:85:7F:0B:40:01",
+    "description": "Dispositivo 5"
+  },
+
+    {
+    "mac": "14:85:7F:0B:40:00",
+    "description": "Dispositivo 5"
+  },
+  
+    {
+    "mac": "7C:8A:E1:E0:58:2A",
+    "description": "Dispositivo 5"
+  },
+
+      {
+    "mac": "00:FF:62:A9:6D:6D",
+    "description": "Dispositivo 5"
+  },
 
 ]
 
