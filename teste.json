@@ -38,5 +38,9 @@
   {
     "mac": "00:FF:62:A9:6D:6D",
     "description": "Dispositivo 5"
+  },
+  {
+    "mac": "F8:E4:3B:14:31:5C",
+    "description": "Dispositivo 5"
   }
 ]
