@@ -26,5 +26,17 @@
   {
     "mac": "24:4B:FE:B7:CB:22",
     "description": "sug"
-  }
+  },
+ {
+    "mac": "AE:DB:19:1B:71:6F",
+    "description": "i1"
+},
+{
+    "mac": "00:FF:B2:73:F7:CC",
+    "description": "i2"
+  },
+{
+    "mac": "18:C0:4D:F2:92:B9",
+    "description": "i3"
+}   
 ]
