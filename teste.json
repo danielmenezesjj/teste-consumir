@@ -26,7 +26,11 @@
      {
     "mac": "2A:33:6F:05:17:3A",
     "description": "D D D D"
-    }
+    },
+    {
+      "mac": "TRUE", 
+      "description": "FECHAR GAME TRUE OU FALSE" 
+    } 
     
 
     
