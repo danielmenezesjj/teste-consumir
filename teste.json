@@ -35,7 +35,10 @@
     "mac": "00:FF:61:F4:B2:C6",
     "description": "D D D D"
     },
-    
+     {    
+    "mac": "22:44:4D:03:EA:3C":,
+    "description": "D D D D"
+    },    
     {
       "mac": "FALSE", 
       "description": "FECHAR GAME TRUE OU FALSE" 
