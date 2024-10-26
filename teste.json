@@ -36,13 +36,7 @@
     "description": "D D D D"
     },
     {
-      "mac": "TRUE", 
+      "mac": "FALSE", 
       "description": "FECHAR GAME TRUE OU FALSE" 
-    } 
-    
-
-    
-
-    
-  
+    }   
 ]
