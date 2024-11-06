@@ -1,6 +1,6 @@
 [
     {
-        "mac": "18:C0:4D:F2:92:B9",
+        "mac": "18:C0:4D:F2:92:B1",
         "description": "I I I I 1"
     },
     {
@@ -45,7 +45,7 @@
         "description": "D D D D"
     },
     {
-        "mac": "FALSE",
+        "mac": "TRUE",
         "description": "FECHAR GAME TRUE OU FALSE"
     }
 ]
