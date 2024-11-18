@@ -2,50 +2,5 @@
     {
         "mac": "18:C0:4D:F2:92:B9",
         "description": "I I I I 1"
-    },
-    {
-        "mac": "E8:9C:25:5E:B1:7C",
-        "description": "KKKKKK"
-    },
-    {
-        "mac": "22:44:4D:03:EA:3C",
-        "description": "KKKKKK"
-    },
-        {
-        "mac": "3C:7C:3F:7C:3D:BD",
-        "description": "D D D D"
-    },
-    {
-        "mac": "E8:9C:25:5F:31:6B",
-        "description": "D D D D"
-    },
-    {
-        "mac": "A8:A1:59:E9:FC:76",
-        "description": "D D D D"
-    },
-    {
-        "mac": "E8:F4:08:FE:A9:02",
-        "description": "D D D D"
-    },
-    {
-        "mac": "2A:33:6F:05:17:3A",
-        "description": "D D D D"
-    },
-    {
-        "mac": "00:E2:69:68:C2:11",
-        "description": "D D D D"
-    },
-    {
-        "mac": "A8:A1:59:5C:67:B9",
-        "description": "D D D D"
-    },
-
-    {    
-        "mac": "00:FF:61:F4:B2:C6",
-        "description": "D D D D"
-    },
-    {
-        "mac": "FALSE",
-        "description": "FECHAR GAME TRUE OU FALSE"
     }
 ]
